@@ -52,7 +52,11 @@ public class Test {
 		System.out.println("I am M2()");
 	}
 	
-
+//m3 Dev5
+	public void m5()
+	{
+		System.out.println("i am m5()");
+	}
 	
 	
 	public static void main(String[] args) {
