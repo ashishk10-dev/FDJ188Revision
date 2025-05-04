@@ -32,6 +32,13 @@ public class Test {
 		int z=x/y;
 		System.out.println("x / y : "+z);
 	}
+	
+//Multiplication2
+	public void Multiplication2()
+	{
+		int z=x*y*x;
+		System.out.println("x * y * x : "+z);
+	}
 
 	
 	public static void main(String[] args) {
