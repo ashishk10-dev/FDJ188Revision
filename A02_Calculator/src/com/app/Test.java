@@ -45,6 +45,15 @@ public class Test {
 	{
 		System.out.println("I am M1()");
 	}
+
+//m2 Dev4
+	public void m2()
+	{
+		System.out.println("I am M2()");
+	}
+	
+
+	
 	
 	public static void main(String[] args) {
 		Test t=new Test();
