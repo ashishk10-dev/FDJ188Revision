@@ -40,6 +40,11 @@ public class Test {
 		System.out.println("x * y * x : "+z);
 	}
 
+//m1
+	public void m1()
+	{
+		System.out.println("I am M1()");
+	}
 	
 	public static void main(String[] args) {
 		Test t=new Test();
