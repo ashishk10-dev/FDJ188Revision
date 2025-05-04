@@ -19,11 +19,20 @@ public class Test {
 		System.out.println("x - y : "+z);
 	}
 	
+//Division
+	public void division()
+	{
+		int z=x/y;
+		System.out.println("x / y : "+z);
+	}
+	
 	public static void main(String[] args) {
 		Test t=new Test();
 		t.addition();
 		
 		t.substraction();
+		
+		t.division();
 				
 	}
 }
