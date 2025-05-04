@@ -51,6 +51,10 @@ public class Test {
 				
 	}
 
-
+//redBus
+	public void redBus()
+	{
+		System.out.println("This Is Red Bus");
+	}
 	
 }
